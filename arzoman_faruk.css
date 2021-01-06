@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+.header{
+    padding: 30px;
+    background-color: gray;
+    width: 120%;
+}
+.nav-bar{
+    float: right;
+}
+ul{
+    display: inline-flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+    display: inline-block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    color: #3C3C3C;
+  }
+  .top-letter{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+      
+  }
+  h1{
+      color: #363958;
+      font-size: 50px;
+  }
+  .btn{
+      text-decoration: none;
+      background-image: linear-gradient(salmon, tomato);
+      padding: 10px 40px;
+      border-radius: 10px;
+      color: white;
+      font-weight: 700;
+     
+      
+  }
+  .color-hilight{
+      color:salmon;
+      font-size: 40px;
+      
+  }
+  .first-width{
+      width: 20%;
+      float: left;
+      margin: 2%;
+      padding-bottom: 5%;
+      }
+  img{
+      width: 400px;
+      left:50%;
+     }
+     .second-sec{
+        width: 30%;
+       float: left;
+        margin-left: 10%;
+        
+     }
+     .second-sec h1{
+         color: #363958;
+         
+     }
+     .third-sec h1{
+        text-align: center;
+        position: relative;
+        width: 50%;
+        left: 30%;
+     }
+     .first-image{
+         float: left;
+         width: 25%;
+         margin-left: auto;
+         padding: 10px;
+     }
+     .all-img{
+         position: relative;
+         left: 8%;
+         
+     }
+     .all-img h1{
+         font-size: 20px;
+         color:#363958;
+         font-weight: 700;
+     }
+     .all-img p{
+         color: #6C6C6C;
+         font-size: 16px;
+     }
+     .fot-sec{
+         text-align: center;
+         
+     }
+    .foter{
+        background-image: url("Group_33094_1.png");
+        padding-bottom: 40px;
+        margin-top: 700px;
+        width: 70%;
+        height: 80%;
+        position: relative;
+        left: 20%;
+        border-radius: 20px;
+    }
+     .foter h1{
+        color: white;
+        position: relative;
+        left: 20%;
+        padding: 20px;
+        }
+        .foter .btn{
+            float: right;
+           
+        }
