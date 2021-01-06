@@ -109,6 +109,8 @@ li a {
         position: relative;
         left: 20%;
         border-radius: 20px;
+      
+    
     }
      .foter h1{
         color: white;
@@ -120,3 +122,25 @@ li a {
             float: right;
            
         }
+        .last-sec h5, h4{
+            text-align: center;
+            color: #696871;
+        }
+        .last-sec h4 a{ 
+            text-decoration: none;
+            color: #363958;
+            
+        }
+    .icon img{
+        float: left;
+        text-align: center;
+        
+    }
+    .icon-img img{
+        width: 2%;
+        position: relative;
+        left: 45%;
+        padding: 10px;
+    }
+    
+    
